@@ -1,0 +1,25 @@
+log name:	integry_gpu3+3_yuanformal
+time file created:	2022-02-26 07:25:46.798093
+
+hid_dim	3072
+n_layers	40
+n_heads	24
+pf_dim	12288
+dropout	0.8
+input_dim	6525
+output_dim	6525
+pad_idx	1
+
+total params of model	4786581885
+train generators: 8	valid generators: 0
+seed	10
+start time of training: 2022-02-26 07:25:46.799724
+epoch 01	| time 3.0h 5.0m 23.416s	| train loss: 58.549
+epoch 02	| time 3.0h 3.0m 49.069s	| train loss: 14.897
+epoch 03	| time 3.0h 4.0m 2.049s	| train loss: 8.126
+epoch 04	| time 3.0h 4.0m 25.937s	| train loss: 6.180
+epoch 05	| time 3.0h 4.0m 3.332s	| train loss: 5.858
+epoch 06	| time 3.0h 4.0m 25.858s	| train loss: 5.497
+epoch 07	| time 3.0h 4.0m 16.336s	| train loss: 5.121
+epoch 08	| time 3.0h 4.0m 57.809s	| train loss: 5.309
+end time of training: 2022-02-27 08:01:10.605128
